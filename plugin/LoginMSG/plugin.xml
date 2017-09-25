@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<plugin version="php">
+    <id>LoginMSG</id>
+    <name>异地登录提醒</name>
+    <url>https://github.com/lanseyujie/ZBlogPHPApps/tree/master/plugin/LoginMSG</url>
+    <note>邮件通知账号异地登录</note>
+    <description>类似 Discuz 的账号异地登录发送邮件通知</description>
+    <path>main.php</path>
+    <include>include.php</include>
+    <level>1</level>
+    <author>
+        <name>Wildlife</name>
+        <email>admin@lanseyujie.com</email>
+        <url>https://lanseyujie.com</url>
+    </author>
+    <source>
+        <name></name>
+        <email></email>
+        <url></url>
+    </source>
+    <adapted>151740</adapted>
+    <version>1.0</version>
+    <pubdate>2017-01-29</pubdate>
+    <modified>2017-01-30</modified>
+    <price>0</price>
+    <phpver>5.3</phpver>
+    <advanced>
+        <dependency></dependency>
+        <rewritefunctions></rewritefunctions>
+        <existsfunctions></existsfunctions>
+        <conflict></conflict>
+    </advanced>
+    <sidebars>
+        <sidebar1></sidebar1>
+        <sidebar2></sidebar2>
+        <sidebar3></sidebar3>
+        <sidebar4></sidebar4>
+        <sidebar5></sidebar5>
+    </sidebars>
+</plugin>
