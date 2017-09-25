@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<plugin version="php">
+    <id>LoadProgressBar</id>
+    <name>页面加载进度条</name>
+    <url>https://github.com/lanseyujie/ZBlogPHPApps/tree/master/plugin/LoadProgressBar</url>
+    <note>具有多种样式可供选择的页面加载进度条</note>
+    <description></description>
+    <path>main.php</path>
+    <include>include.php</include>
+    <level>1</level>
+    <author>
+        <name>Wildlife</name>
+        <email>admin@lanseyujie.com</email>
+        <url>https://lanseyujie.com</url>
+    </author>
+    <source>
+        <name>HubSpot, Inc.</name>
+        <email></email>
+        <url>http://product.hubspot.com</url>
+    </source>
+    <adapted>150101</adapted>
+    <version>1.1</version>
+    <pubdate>2016-06-28</pubdate>
+    <modified>2017-03-01</modified>
+    <price>0</price>
+    <phpver>5.2</phpver>
+    <advanced>
+        <dependency></dependency>
+        <rewritefunctions></rewritefunctions>
+        <existsfunctions></existsfunctions>
+        <conflict>lianxijiazai</conflict>
+    </advanced>
+    <sidebars>
+        <sidebar1></sidebar1>
+        <sidebar2></sidebar2>
+        <sidebar3></sidebar3>
+        <sidebar4></sidebar4>
+        <sidebar5></sidebar5>
+    </sidebars>
+</plugin>
