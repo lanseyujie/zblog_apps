@@ -1,0 +1,65 @@
+/**
+ * ContextMenu Plugin For Z-Blog
+ * 
+ * @package     ContextMenu.zba
+ * @version     1.5.1
+ * @author      Wildlife <admin@lanseyujie.com>
+ * @link        https://lanseyujie.com
+ * @license     https://opensource.org/licenses/mit-license.php MIT
+ * @copyright   Copyright(c) 2014-2018, lanseyujie.com
+ */
+
+div.usercm {
+    position: absolute;
+    z-index: 10000;
+    display: none;
+    width: 130px;
+    background-color: #fff;
+    background-image: url('../images/bgp.png');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    -moz-box-shadow: 1px 1px 3px rgba(0,0,0,.3);
+    box-shadow: 1px 1px 3px rgba(0,0,0,.3);
+    font-size: 13px!important;
+    opacity: 0.9;
+}
+
+div.usercm ul {
+    display: block;
+    margin: 0px;
+    padding: 0px;
+    list-style-position: outside;
+    list-style-type: none;
+}
+
+div.usercm ul li {
+    margin: 0px;
+    padding: 0px;
+    border-bottom: 1px solid #ccc;
+    line-height: 35px;
+}
+
+div.usercm ul li a {
+    display: block;
+    padding: 0 15px;
+    color: #666;
+}
+
+div.usercm ul li a:hover {
+    background: rgba(170,222,18,0.88);
+    color: #fff;
+}
+
+div.usercm ul li a i {
+    margin-right: 10px;
+}
+
+a.disabled {
+    color: #c8c8c8!important;
+    cursor: not-allowed;
+}
+
+a.disabled:hover {
+    background-color: rgba(255,11,11,0)!important;
+}
