@@ -137,5 +137,3 @@
         return new cropbox(options, this);
     };
 }));
-
-/*www.jq22.com*/

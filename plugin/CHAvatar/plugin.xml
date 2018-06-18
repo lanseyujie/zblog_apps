@@ -1,40 +1,40 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <plugin version="php">
-    <id>CHAvatar</id>
-    <name>修改头像</name>
-    <url>https://github.com/lanseyujie/ZBlogPHPApps/tree/master/plugin/CHAvatar</url>
-    <note>注册用户可以自定义本地头像</note>
-    <description>终结 Z-Blog 多年来注册用户不能直接修改本地头像的尴尬现象</description>
-    <path></path>
-    <include>include.php</include>
-    <level>1</level>
-    <author>
-        <name>Wildlife</name>
-        <email>admin@lanseyujie.com</email>
-        <url>https://lanseyujie.com</url>
-    </author>
-    <source>
-        <name></name>
-        <email></email>
-        <url></url>
-    </source>
-    <adapted>150101</adapted>
-    <version>1.0</version>
-    <pubdate>2017-02-04</pubdate>
-    <modified>2017-09-25</modified>
-    <price>0</price>
-    <phpver>5.3</phpver>
-    <advanced>
-        <dependency></dependency>
-        <rewritefunctions></rewritefunctions>
-        <existsfunctions></existsfunctions>
-        <conflict></conflict>
-    </advanced>
-    <sidebars>
-        <sidebar1></sidebar1>
-        <sidebar2></sidebar2>
-        <sidebar3></sidebar3>
-        <sidebar4></sidebar4>
-        <sidebar5></sidebar5>
-    </sidebars>
+<id>CHAvatar</id>
+<name>修改头像</name>
+<url>https://lanseyujie.com</url>
+<note>注册用户可以自定义本地头像</note>
+<description></description>
+<path></path>
+<include>include.php</include>
+<level>1</level>
+<author>
+  <name>森林生灵</name>
+  <email>admin@lanseyujie.com</email>
+  <url>https://lanseyujie.com</url>
+</author>
+<source>
+  <name></name>
+  <email></email>
+  <url></url>
+</source>
+<adapted>150101</adapted>
+<version>1.1</version>
+<pubdate>2017-02-04</pubdate>
+<modified>2018-04-22</modified>
+<price>0</price>
+<phpver>5.2</phpver>
+<advanced>
+  <dependency></dependency>
+  <rewritefunctions></rewritefunctions>
+  <existsfunctions></existsfunctions>
+  <conflict></conflict>
+</advanced>
+<sidebars>
+  <sidebar1></sidebar1>
+  <sidebar2></sidebar2>
+  <sidebar3></sidebar3>
+  <sidebar4></sidebar4>
+  <sidebar5></sidebar5>
+</sidebars>
 </plugin>
